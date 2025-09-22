@@ -1,0 +1,11 @@
+hBlockGround,Model\\Block\\Ground.fbx,地面
+hBlockHalfGround,Model\\Block\\HalfGround.fbx,半分の地面
+hBlockGrass,Model\\Block\\Grass.fbx,草付き地面
+hBlockRock,Model\\Block\\Rock.fbx,岩
+hBlockPoison,Model\\Block\\Poison.fbx,毒
+hActionUI,Image\\ActionUI.png,操作方法の画像
+hBack,Image\\Back.png,背景
+blockDamage,_20,ダメージを受けるブロックでどのくらいダメージを受けるか
+notDrawDist,_9.5f,ブロックがこの距離プレイヤーから離れたら描画しなくなる
+actionUIPos,_-0.8f/0.65f,操作方法の表示位置
+backSize,_1.3f/1.5f,背景サイズ

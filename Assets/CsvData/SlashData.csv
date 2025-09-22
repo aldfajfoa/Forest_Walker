@@ -1,0 +1,8 @@
+hSlashHitSound,Sound\\SlashHit.wav,斬撃が当たった時の効果音
+attack,_2,攻撃力
+rotateYRight,_0,右向きの時のY軸角度
+rotateYLeft,_180,左向きの時のY軸角度
+slashInterval,_0.5f,連続で斬撃を出せる間隔
+slashDist,_0.6f/0.0f/-0.7f,プレイヤー中心としてどのくらい離すか(斬撃)
+slashShineDist,_1.3f/0.0f/-0.5f,プレイヤー中心としてどのくらい離すか(光)
+slashBoxSize,_1.2f/0.9f/0.1f,当たり判定サイズ

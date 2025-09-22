@@ -1,0 +1,6 @@
+hNest,Model\\BeeNest.fbx,本体のモデル
+maxHp,_10,体力の最大値
+birthInterval,_2.0f,ハチを生成する間隔
+beeDist,_1.5f,ハチを生成した時自分からどのくらい離すか
+collBoxPos,_0.0f/0.0f/0.0f,オブジェクト本体当たり判定の位置
+collBoxSize,_1.1f/1.1f/0.1f,オブジェクト本体当たり判定のサイズ

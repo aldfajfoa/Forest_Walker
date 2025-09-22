@@ -1,0 +1,12 @@
+hArrow,Model\\Arrow.fbx,本体のモデル
+hArrowHitSound,Sound\\Pierce.wav,プレイヤーに当たった時の効果音
+attack,_1,攻撃力
+moveSpeed,_0.25f,移動速度
+gravity,_0.006f,重力
+eraseTime,_1.0f,止まってから消えるまでの秒数
+magniDist,_0.4f,矢の中心と当たり判定の距離の倍率
+defaultDirPos,_0.04f,
+maxDir,_90.0f,回転が止まる角度
+rotateSpeed,_15.0f,回転速度の倍率
+collBoxPos,_0.0f/0.0f/0.0f,矢先端の当たり判定の位置
+collBoxSize,_0.2f/0.2f/0.1f,矢先端の当たり判定のサイズ

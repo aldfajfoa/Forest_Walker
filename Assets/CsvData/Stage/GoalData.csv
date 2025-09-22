@@ -1,0 +1,6 @@
+hGoal,Model\\Chest.fbx,本体のモデル
+hGoalSound,Sound\\Clear.wav,ゴールした時の音
+gLeftAngle,_220.0f,オブジェクトの左の向き(右向きは左向きの反対で設定される)
+goalSec,_2.0f,ゴールに着いてからクリアシーンに遷移するまでの秒数
+collBoxPos,_0.0f/0.0f/0.0f,オブジェクト本体の当たり判定の位置
+collBoxSize, 1.2f/1.1f/0.1f,オブジェクト本体の当たり判定のサイズ

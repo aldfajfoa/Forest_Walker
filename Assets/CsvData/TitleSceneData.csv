@@ -1,0 +1,9 @@
+hImage,Image\\TitleScene.png,シーン画像
+hStageButtons,Image\\StageButton.png,ステージのボタン
+hSelectFrame,Image\\SelectFrame.png,選択されているボタンの上から表示する枠
+hSelectSound,Sound\\Select.wav,ステージを選択するときの音
+maxRow,_4,ステージ一覧を表示するときの列数
+buttonDefaultPosY,_-0.05f,
+buttonSpaceY,_0.18f,Y座標のボタン同士の隙間
+stageNameSize,_1.3f,ステージ名の文字サイズ
+buttonImageSize,_256.0f/144.0f,ボタンの画像サイズ
